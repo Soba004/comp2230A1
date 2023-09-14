@@ -1,6 +1,6 @@
 
-/* Name: Harrison Collins
- * Student Number: c3282352
+/* Name: William Stewart  
+ * Student Number: c3282367
  * File: Node.java
  * Description: 
  * Acts like a cell in the maze grid

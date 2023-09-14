@@ -1,9 +1,9 @@
 
-/* Name: Harrison Collins
- * Student Number: c3282352
+/* Name: William Stewart    
+ * Student Number: c3282367
  * File: MazeSolverBFS.java
  * Description: 
- * Retrieves a given maze file that reads then solves the maze using breadth first search
+ * Retrieves a given maze file that reads then solves the maze using breadth first search and depth first search
  */
 import java.io.File;
 import java.io.FileWriter;
